@@ -1,0 +1,422 @@
+2019-07-31 11:22:51,355  INFO (SpringApplication.java:646) - No active profile set, falling back to default profiles: default
+2019-07-31 11:22:54,507  INFO (ExecutorConfigurationSupport.java:171) - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-31 11:22:55,251  INFO (StartupInfoLogger.java:59) - Started WorkTrackingApplicationTests in 4.279 seconds (JVM running for 6.219)
+2019-07-31 11:22:55,749  INFO (ExecutorConfigurationSupport.java:208) - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-07-31 11:56:46,728  INFO (AbstractTestContextBootstrapper.java:308) - Neither @ContextConfiguration nor @ContextHierarchy found for test class [kulnaja.work.tracking.WorkTrackingApplicationTests], using SpringBootContextLoader
+2019-07-31 11:56:46,855  INFO (AbstractContextLoader.java:264) - Could not detect default resource locations for test class [kulnaja.work.tracking.WorkTrackingApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2019-07-31 11:56:46,860  INFO (AnnotationConfigContextLoaderUtils.java:83) - Could not detect default configuration classes for test class [kulnaja.work.tracking.WorkTrackingApplicationTests]: WorkTrackingApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2019-07-31 11:56:47,332  INFO (SpringBootTestContextBootstrapper.java:235) - Found @SpringBootConfiguration kulnaja.work.tracking.WorkTrackingApplication for test class kulnaja.work.tracking.WorkTrackingApplicationTests
+2019-07-31 11:56:47,906  INFO (AbstractTestContextBootstrapper.java:248) - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2019-07-31 11:56:48,173  INFO (AbstractTestContextBootstrapper.java:177) - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@24c1b2d2, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@7dc19a70, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@508dec2b, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@1e4f4a5c, org.springframework.test.context.support.DirtiesContextTestExecutionListener@37313c65, org.springframework.test.context.transaction.TransactionalTestExecutionListener@465232e9, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@798162bc, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@1df8da7a, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@23941fb4, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@7486b455, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@660acfb, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@5d908d47]
+2019-07-31 11:56:51,700  INFO (StartupInfoLogger.java:50) - Starting WorkTrackingApplicationTests on GSSD_Songpholt with PID 24940 (started by songpholtan in D:\WorkSpace\SpringBoot\work-tracking)
+2019-07-31 11:56:51,701 DEBUG (StartupInfoLogger.java:53) - Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-31 11:56:51,708  INFO (SpringApplication.java:646) - No active profile set, falling back to default profiles: default
+2019-07-31 11:56:55,472  INFO (ExecutorConfigurationSupport.java:171) - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-31 11:56:56,426  INFO (StartupInfoLogger.java:59) - Started WorkTrackingApplicationTests in 8.2 seconds (JVM running for 15.366)
+2019-07-31 11:56:56,959  INFO (ExecutorConfigurationSupport.java:208) - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-07-31 12:01:06,533  INFO (StartupInfoLogger.java:50) - Starting WorkTrackingApplication on GSSD_Songpholt with PID 31508 (D:\WorkSpace\SpringBoot\work-tracking\target\classes started by songpholtan in D:\WorkSpace\SpringBoot\work-tracking)
+2019-07-31 12:01:06,539 DEBUG (StartupInfoLogger.java:53) - Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-31 12:01:06,540  INFO (SpringApplication.java:646) - No active profile set, falling back to default profiles: default
+2019-07-31 12:01:07,790 DEBUG (DocumentRoot.java:81) - Code archive: C:\Users\Songpholtan\.m2\repository\org\springframework\boot\spring-boot\2.1.6.RELEASE\spring-boot-2.1.6.RELEASE.jar
+2019-07-31 12:01:07,790 DEBUG (DocumentRoot.java:125) - Code archive: C:\Users\Songpholtan\.m2\repository\org\springframework\boot\spring-boot\2.1.6.RELEASE\spring-boot-2.1.6.RELEASE.jar
+2019-07-31 12:01:07,791 DEBUG (DocumentRoot.java:69) - Document root: D:\WorkSpace\SpringBoot\work-tracking\src\main\webapp
+2019-07-31 12:01:07,818  INFO (TomcatWebServer.java:90) - Tomcat initialized with port(s): 8080 (http)
+2019-07-31 12:01:07,841  INFO (DirectJDKLog.java:180) - Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-31 12:01:07,857  INFO (DirectJDKLog.java:180) - Starting service [Tomcat]
+2019-07-31 12:01:07,857  INFO (DirectJDKLog.java:180) - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-07-31 12:01:29,118  WARN (DirectJDKLog.java:182) - Unexpected exception resolving reference
+java.sql.SQLException: Cannot create PoolableConnectionFactory (IO Error: The Network Adapter could not establish the connection)
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:735) ~[tomcat-dbcp.jar:9.0.16]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:605) ~[tomcat-dbcp.jar:9.0.16]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getLogWriter(BasicDataSource.java:1110) ~[tomcat-dbcp.jar:9.0.16]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSourceFactory.createDataSource(BasicDataSourceFactory.java:554) ~[tomcat-dbcp.jar:9.0.16]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSourceFactory.getObjectInstance(BasicDataSourceFactory.java:236) ~[tomcat-dbcp.jar:9.0.16]
+	at org.apache.naming.factory.FactoryBase.getObjectInstance(FactoryBase.java:94) ~[catalina.jar:9.0.16]
+	at javax.naming.spi.NamingManager.getObjectInstance(Unknown Source) ~[?:1.8.0_102]
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:840) [catalina.jar:9.0.16]
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:159) [catalina.jar:9.0.16]
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:827) [catalina.jar:9.0.16]
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:173) [catalina.jar:9.0.16]
+	at org.apache.catalina.core.NamingContextListener.addResource(NamingContextListener.java:1015) [catalina.jar:9.0.16]
+	at org.apache.catalina.core.NamingContextListener.createNamingContext(NamingContextListener.java:556) [catalina.jar:9.0.16]
+	at org.apache.catalina.core.NamingContextListener.lifecycleEvent(NamingContextListener.java:252) [catalina.jar:9.0.16]
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123) [catalina.jar:9.0.16]
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5034) [catalina.jar:9.0.16]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183) [catalina.jar:9.0.16]
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1377) [catalina.jar:9.0.16]
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1367) [catalina.jar:9.0.16]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_102]
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75) [tomcat-util.jar:9.0.16]
+	at java.util.concurrent.AbstractExecutorService.submit(Unknown Source) [?:1.8.0_102]
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:902) [catalina.jar:9.0.16]
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:831) [catalina.jar:9.0.16]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183) [catalina.jar:9.0.16]
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1377) [catalina.jar:9.0.16]
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1367) [catalina.jar:9.0.16]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_102]
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75) [tomcat-util.jar:9.0.16]
+	at java.util.concurrent.AbstractExecutorService.submit(Unknown Source) [?:1.8.0_102]
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:902) [catalina.jar:9.0.16]
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:262) [catalina.jar:9.0.16]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183) [catalina.jar:9.0.16]
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:423) [catalina.jar:9.0.16]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183) [catalina.jar:9.0.16]
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:928) [catalina.jar:9.0.16]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183) [catalina.jar:9.0.16]
+	at org.apache.catalina.startup.Tomcat.start(Tomcat.java:455) [catalina.jar:9.0.16]
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize(TomcatWebServer.java:105) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.<init>(TomcatWebServer.java:86) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getTomcatWebServer(TomcatServletWebServerFactory.java:414) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at kulnaja.work.tracking.config.TomcatEmbeddedApplication$1.getTomcatWebServer(TomcatEmbeddedApplication.java:127) [classes/:?]
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getWebServer(TomcatServletWebServerFactory.java:178) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.createWebServer(ServletWebServerApplicationContext.java:179) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:152) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:543) [spring-context-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:742) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:389) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:311) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1213) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1202) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at kulnaja.work.tracking.WorkTrackingApplication.main(WorkTrackingApplication.java:13) [classes/:?]
+Caused by: java.sql.SQLRecoverableException: IO Error: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:489) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:553) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:254) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:528) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:53) ~[tomcat-dbcp.jar:9.0.16]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:355) ~[tomcat-dbcp.jar:9.0.16]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:116) ~[tomcat-dbcp.jar:9.0.16]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:731) ~[tomcat-dbcp.jar:9.0.16]
+	... 52 more
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:439) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:454) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:693) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:251) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1140) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:340) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:553) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:254) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:528) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:53) ~[tomcat-dbcp.jar:9.0.16]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:355) ~[tomcat-dbcp.jar:9.0.16]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:116) ~[tomcat-dbcp.jar:9.0.16]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:731) ~[tomcat-dbcp.jar:9.0.16]
+	... 52 more
+Caused by: java.net.ConnectException: Connection timed out: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method) ~[?:1.8.0_102]
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source) ~[?:1.8.0_102]
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source) ~[?:1.8.0_102]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source) ~[?:1.8.0_102]
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source) ~[?:1.8.0_102]
+	at java.net.PlainSocketImpl.connect(Unknown Source) ~[?:1.8.0_102]
+	at java.net.SocksSocketImpl.connect(Unknown Source) ~[?:1.8.0_102]
+	at java.net.Socket.connect(Unknown Source) ~[?:1.8.0_102]
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:149) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:133) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:405) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:454) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:693) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:251) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1140) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:340) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:553) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:254) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:528) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:53) ~[tomcat-dbcp.jar:9.0.16]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:355) ~[tomcat-dbcp.jar:9.0.16]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:116) ~[tomcat-dbcp.jar:9.0.16]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:731) ~[tomcat-dbcp.jar:9.0.16]
+	... 52 more
+2019-07-31 12:01:29,125  WARN (DirectJDKLog.java:180) - Failed to register in JMX: [javax.naming.NamingException: Unexpected exception resolving reference [Root exception is java.sql.SQLException: Cannot create PoolableConnectionFactory (IO Error: The Network Adapter could not establish the connection)]]
+2019-07-31 12:01:29,285  INFO (DirectJDKLog.java:180) - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-07-31 12:01:29,291  INFO (DirectJDKLog.java:180) - Initializing Spring embedded WebApplicationContext
+2019-07-31 12:01:29,620  INFO (ExecutorConfigurationSupport.java:171) - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-31 12:01:30,043  INFO (DirectJDKLog.java:180) - Starting ProtocolHandler ["http-nio-8080"]
+2019-07-31 12:01:30,083  INFO (TomcatWebServer.java:202) - Tomcat started on port(s): 8080 (http) with context path '/work-tracking'
+2019-07-31 12:01:30,087  INFO (StartupInfoLogger.java:59) - Started WorkTrackingApplication in 23.846 seconds (JVM running for 25.555)
+2019-07-31 12:02:01,272  INFO (DirectJDKLog.java:180) - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-31 12:02:01,303 DEBUG (TaskController.java:37) - A DEBUG Message
+2019-07-31 12:02:01,304  INFO (TaskController.java:38) - An INFO Message
+2019-07-31 12:02:01,304  WARN (TaskController.java:39) - A WARN Message
+2019-07-31 12:02:01,304 ERROR (TaskController.java:40) - An ERROR Message
+2019-07-31 12:04:38,727  INFO (SpringApplicationAdminMXBeanRegistrar.java:159) - Application shutdown requested.
+2019-07-31 12:04:38,730  INFO (ExecutorConfigurationSupport.java:208) - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-07-31 12:06:39,849  INFO (StartupInfoLogger.java:50) - Starting WorkTrackingApplication on GSSD_Songpholt with PID 31880 (D:\WorkSpace\SpringBoot\work-tracking\target\classes started by songpholtan in D:\WorkSpace\SpringBoot\work-tracking)
+2019-07-31 12:06:39,855 DEBUG (StartupInfoLogger.java:53) - Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-31 12:06:39,856  INFO (SpringApplication.java:646) - No active profile set, falling back to default profiles: default
+2019-07-31 12:06:41,021 DEBUG (DocumentRoot.java:81) - Code archive: C:\Users\Songpholtan\.m2\repository\org\springframework\boot\spring-boot\2.1.6.RELEASE\spring-boot-2.1.6.RELEASE.jar
+2019-07-31 12:06:41,022 DEBUG (DocumentRoot.java:125) - Code archive: C:\Users\Songpholtan\.m2\repository\org\springframework\boot\spring-boot\2.1.6.RELEASE\spring-boot-2.1.6.RELEASE.jar
+2019-07-31 12:06:41,022 DEBUG (DocumentRoot.java:69) - Document root: D:\WorkSpace\SpringBoot\work-tracking\src\main\webapp
+2019-07-31 12:06:41,048  INFO (TomcatWebServer.java:90) - Tomcat initialized with port(s): 8080 (http)
+2019-07-31 12:06:41,071  INFO (DirectJDKLog.java:180) - Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-31 12:06:41,085  INFO (DirectJDKLog.java:180) - Starting service [Tomcat]
+2019-07-31 12:06:41,086  INFO (DirectJDKLog.java:180) - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-07-31 12:07:02,344  WARN (DirectJDKLog.java:182) - Unexpected exception resolving reference
+java.sql.SQLException: Cannot create PoolableConnectionFactory (IO Error: The Network Adapter could not establish the connection)
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:735) ~[tomcat-dbcp.jar:9.0.16]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:605) ~[tomcat-dbcp.jar:9.0.16]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getLogWriter(BasicDataSource.java:1110) ~[tomcat-dbcp.jar:9.0.16]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSourceFactory.createDataSource(BasicDataSourceFactory.java:554) ~[tomcat-dbcp.jar:9.0.16]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSourceFactory.getObjectInstance(BasicDataSourceFactory.java:236) ~[tomcat-dbcp.jar:9.0.16]
+	at org.apache.naming.factory.FactoryBase.getObjectInstance(FactoryBase.java:94) ~[catalina.jar:9.0.16]
+	at javax.naming.spi.NamingManager.getObjectInstance(Unknown Source) ~[?:1.8.0_102]
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:840) [catalina.jar:9.0.16]
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:159) [catalina.jar:9.0.16]
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:827) [catalina.jar:9.0.16]
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:173) [catalina.jar:9.0.16]
+	at org.apache.catalina.core.NamingContextListener.addResource(NamingContextListener.java:1015) [catalina.jar:9.0.16]
+	at org.apache.catalina.core.NamingContextListener.createNamingContext(NamingContextListener.java:556) [catalina.jar:9.0.16]
+	at org.apache.catalina.core.NamingContextListener.lifecycleEvent(NamingContextListener.java:252) [catalina.jar:9.0.16]
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123) [catalina.jar:9.0.16]
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5034) [catalina.jar:9.0.16]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183) [catalina.jar:9.0.16]
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1377) [catalina.jar:9.0.16]
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1367) [catalina.jar:9.0.16]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_102]
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75) [tomcat-util.jar:9.0.16]
+	at java.util.concurrent.AbstractExecutorService.submit(Unknown Source) [?:1.8.0_102]
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:902) [catalina.jar:9.0.16]
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:831) [catalina.jar:9.0.16]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183) [catalina.jar:9.0.16]
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1377) [catalina.jar:9.0.16]
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1367) [catalina.jar:9.0.16]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_102]
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75) [tomcat-util.jar:9.0.16]
+	at java.util.concurrent.AbstractExecutorService.submit(Unknown Source) [?:1.8.0_102]
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:902) [catalina.jar:9.0.16]
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:262) [catalina.jar:9.0.16]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183) [catalina.jar:9.0.16]
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:423) [catalina.jar:9.0.16]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183) [catalina.jar:9.0.16]
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:928) [catalina.jar:9.0.16]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183) [catalina.jar:9.0.16]
+	at org.apache.catalina.startup.Tomcat.start(Tomcat.java:455) [catalina.jar:9.0.16]
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize(TomcatWebServer.java:105) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.<init>(TomcatWebServer.java:86) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getTomcatWebServer(TomcatServletWebServerFactory.java:414) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at kulnaja.work.tracking.config.TomcatEmbeddedApplication$1.getTomcatWebServer(TomcatEmbeddedApplication.java:127) [classes/:?]
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getWebServer(TomcatServletWebServerFactory.java:178) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.createWebServer(ServletWebServerApplicationContext.java:179) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:152) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:543) [spring-context-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:742) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:389) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:311) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1213) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1202) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at kulnaja.work.tracking.WorkTrackingApplication.main(WorkTrackingApplication.java:13) [classes/:?]
+Caused by: java.sql.SQLRecoverableException: IO Error: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:489) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:553) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:254) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:528) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:53) ~[tomcat-dbcp.jar:9.0.16]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:355) ~[tomcat-dbcp.jar:9.0.16]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:116) ~[tomcat-dbcp.jar:9.0.16]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:731) ~[tomcat-dbcp.jar:9.0.16]
+	... 52 more
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:439) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:454) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:693) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:251) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1140) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:340) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:553) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:254) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:528) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:53) ~[tomcat-dbcp.jar:9.0.16]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:355) ~[tomcat-dbcp.jar:9.0.16]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:116) ~[tomcat-dbcp.jar:9.0.16]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:731) ~[tomcat-dbcp.jar:9.0.16]
+	... 52 more
+Caused by: java.net.ConnectException: Connection timed out: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method) ~[?:1.8.0_102]
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source) ~[?:1.8.0_102]
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source) ~[?:1.8.0_102]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source) ~[?:1.8.0_102]
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source) ~[?:1.8.0_102]
+	at java.net.PlainSocketImpl.connect(Unknown Source) ~[?:1.8.0_102]
+	at java.net.SocksSocketImpl.connect(Unknown Source) ~[?:1.8.0_102]
+	at java.net.Socket.connect(Unknown Source) ~[?:1.8.0_102]
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:149) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:133) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:405) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:454) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:693) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:251) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1140) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:340) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:553) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:254) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:528) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:53) ~[tomcat-dbcp.jar:9.0.16]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:355) ~[tomcat-dbcp.jar:9.0.16]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:116) ~[tomcat-dbcp.jar:9.0.16]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:731) ~[tomcat-dbcp.jar:9.0.16]
+	... 52 more
+2019-07-31 12:07:02,362  WARN (DirectJDKLog.java:180) - Failed to register in JMX: [javax.naming.NamingException: Unexpected exception resolving reference [Root exception is java.sql.SQLException: Cannot create PoolableConnectionFactory (IO Error: The Network Adapter could not establish the connection)]]
+2019-07-31 12:07:02,452  INFO (DirectJDKLog.java:180) - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-07-31 12:07:02,456  INFO (DirectJDKLog.java:180) - Initializing Spring embedded WebApplicationContext
+2019-07-31 12:07:02,736  INFO (ExecutorConfigurationSupport.java:171) - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-31 12:07:03,108  INFO (DirectJDKLog.java:180) - Starting ProtocolHandler ["http-nio-8080"]
+2019-07-31 12:07:03,136  INFO (TomcatWebServer.java:202) - Tomcat started on port(s): 8080 (http) with context path ''
+2019-07-31 12:07:03,139  INFO (StartupInfoLogger.java:59) - Started WorkTrackingApplication in 23.604 seconds (JVM running for 25.035)
+2019-07-31 12:07:05,359  INFO (DirectJDKLog.java:180) - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-31 12:07:05,392  INFO (TaskController.java:41) - UUID : 4ff6d473-8139-4e14-b1eb-24fc8a3b01fa
+2019-07-31 12:07:05,393 DEBUG (TaskController.java:44) - A DEBUG Message
+2019-07-31 12:07:05,393  INFO (TaskController.java:45) - An INFO Message
+2019-07-31 12:07:05,393  WARN (TaskController.java:46) - A WARN Message
+2019-07-31 12:07:05,393 ERROR (TaskController.java:47) - An ERROR Message
+2019-07-31 12:07:11,832  INFO (TaskController.java:41) - UUID : 0c4667a7-b7a8-4945-8e7b-5ebc5b0cb9af
+2019-07-31 12:07:11,832 DEBUG (TaskController.java:44) - A DEBUG Message
+2019-07-31 12:07:11,833  INFO (TaskController.java:45) - An INFO Message
+2019-07-31 12:07:11,833  WARN (TaskController.java:46) - A WARN Message
+2019-07-31 12:07:11,833 ERROR (TaskController.java:47) - An ERROR Message
+2019-07-31 12:08:50,098  INFO (SpringApplicationAdminMXBeanRegistrar.java:159) - Application shutdown requested.
+2019-07-31 12:08:50,101  INFO (ExecutorConfigurationSupport.java:208) - Shutting down ExecutorService 'applicationTaskExecutor'
+ 2019-07-31 12:11:09,357  INFO (StartupInfoLogger.java:50) 167d93f7-94e1-4fa8-b80e-c067f8946037 - Starting WorkTrackingApplication on GSSD_Songpholt with PID 22324 (D:\WorkSpace\SpringBoot\work-tracking\target\classes started by songpholtan in D:\WorkSpace\SpringBoot\work-tracking)
+ 2019-07-31 12:11:09,365 DEBUG (StartupInfoLogger.java:53) 02c050d6-4a60-4f72-87ee-a404400c6b80 - Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+ 2019-07-31 12:11:09,366  INFO (SpringApplication.java:646) 1f62ab99-3549-4cd4-8ba6-ee2a75d5d3dd - No active profile set, falling back to default profiles: default
+ 2019-07-31 12:11:10,643 DEBUG (DocumentRoot.java:81) 2fd0dba7-930d-4ec6-98d2-2a9ad36ab3a2 - Code archive: C:\Users\Songpholtan\.m2\repository\org\springframework\boot\spring-boot\2.1.6.RELEASE\spring-boot-2.1.6.RELEASE.jar
+ 2019-07-31 12:11:10,644 DEBUG (DocumentRoot.java:125) d69ff9cd-2a59-4dc1-81c3-bf3f47a43eac - Code archive: C:\Users\Songpholtan\.m2\repository\org\springframework\boot\spring-boot\2.1.6.RELEASE\spring-boot-2.1.6.RELEASE.jar
+ 2019-07-31 12:11:10,645 DEBUG (DocumentRoot.java:69) 4af3a523-9aee-4788-8636-e2ee63c17e2b - Document root: D:\WorkSpace\SpringBoot\work-tracking\src\main\webapp
+ 2019-07-31 12:11:10,672  INFO (TomcatWebServer.java:90) 9a50c97a-242f-4db7-b00e-ff8529fee84c - Tomcat initialized with port(s): 8080 (http)
+ 2019-07-31 12:11:10,694  INFO (DirectJDKLog.java:180) 680e12bb-3222-4da7-b948-efff8b182e4e - Initializing ProtocolHandler ["http-nio-8080"]
+ 2019-07-31 12:11:10,708  INFO (DirectJDKLog.java:180) 24d86a9c-6d2a-410b-9bfa-6c2c9b21c8b1 - Starting service [Tomcat]
+ 2019-07-31 12:11:10,708  INFO (DirectJDKLog.java:180) de14ed54-9a6e-46df-9ca7-f74bd8571515 - Starting Servlet engine: [Apache Tomcat/9.0.16]
+ 2019-07-31 12:11:32,153  WARN (DirectJDKLog.java:182) f8dfc369-6038-4f5d-9a96-09166398d07b - Unexpected exception resolving reference
+java.sql.SQLException: Cannot create PoolableConnectionFactory (IO Error: The Network Adapter could not establish the connection)
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:735) ~[tomcat-dbcp.jar:9.0.16]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:605) ~[tomcat-dbcp.jar:9.0.16]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getLogWriter(BasicDataSource.java:1110) ~[tomcat-dbcp.jar:9.0.16]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSourceFactory.createDataSource(BasicDataSourceFactory.java:554) ~[tomcat-dbcp.jar:9.0.16]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSourceFactory.getObjectInstance(BasicDataSourceFactory.java:236) ~[tomcat-dbcp.jar:9.0.16]
+	at org.apache.naming.factory.FactoryBase.getObjectInstance(FactoryBase.java:94) ~[catalina.jar:9.0.16]
+	at javax.naming.spi.NamingManager.getObjectInstance(Unknown Source) ~[?:1.8.0_102]
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:840) [catalina.jar:9.0.16]
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:159) [catalina.jar:9.0.16]
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:827) [catalina.jar:9.0.16]
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:173) [catalina.jar:9.0.16]
+	at org.apache.catalina.core.NamingContextListener.addResource(NamingContextListener.java:1015) [catalina.jar:9.0.16]
+	at org.apache.catalina.core.NamingContextListener.createNamingContext(NamingContextListener.java:556) [catalina.jar:9.0.16]
+	at org.apache.catalina.core.NamingContextListener.lifecycleEvent(NamingContextListener.java:252) [catalina.jar:9.0.16]
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123) [catalina.jar:9.0.16]
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5034) [catalina.jar:9.0.16]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183) [catalina.jar:9.0.16]
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1377) [catalina.jar:9.0.16]
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1367) [catalina.jar:9.0.16]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_102]
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75) [tomcat-util.jar:9.0.16]
+	at java.util.concurrent.AbstractExecutorService.submit(Unknown Source) [?:1.8.0_102]
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:902) [catalina.jar:9.0.16]
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:831) [catalina.jar:9.0.16]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183) [catalina.jar:9.0.16]
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1377) [catalina.jar:9.0.16]
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1367) [catalina.jar:9.0.16]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_102]
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75) [tomcat-util.jar:9.0.16]
+	at java.util.concurrent.AbstractExecutorService.submit(Unknown Source) [?:1.8.0_102]
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:902) [catalina.jar:9.0.16]
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:262) [catalina.jar:9.0.16]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183) [catalina.jar:9.0.16]
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:423) [catalina.jar:9.0.16]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183) [catalina.jar:9.0.16]
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:928) [catalina.jar:9.0.16]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183) [catalina.jar:9.0.16]
+	at org.apache.catalina.startup.Tomcat.start(Tomcat.java:455) [catalina.jar:9.0.16]
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize(TomcatWebServer.java:105) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.<init>(TomcatWebServer.java:86) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getTomcatWebServer(TomcatServletWebServerFactory.java:414) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at kulnaja.work.tracking.config.TomcatEmbeddedApplication$1.getTomcatWebServer(TomcatEmbeddedApplication.java:127) [classes/:?]
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getWebServer(TomcatServletWebServerFactory.java:178) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.createWebServer(ServletWebServerApplicationContext.java:179) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:152) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:543) [spring-context-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:742) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:389) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:311) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1213) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1202) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at kulnaja.work.tracking.WorkTrackingApplication.main(WorkTrackingApplication.java:13) [classes/:?]
+Caused by: java.sql.SQLRecoverableException: IO Error: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:489) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:553) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:254) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:528) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:53) ~[tomcat-dbcp.jar:9.0.16]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:355) ~[tomcat-dbcp.jar:9.0.16]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:116) ~[tomcat-dbcp.jar:9.0.16]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:731) ~[tomcat-dbcp.jar:9.0.16]
+	... 52 more
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:439) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:454) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:693) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:251) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1140) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:340) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:553) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:254) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:528) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:53) ~[tomcat-dbcp.jar:9.0.16]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:355) ~[tomcat-dbcp.jar:9.0.16]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:116) ~[tomcat-dbcp.jar:9.0.16]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:731) ~[tomcat-dbcp.jar:9.0.16]
+	... 52 more
+Caused by: java.net.ConnectException: Connection timed out: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method) ~[?:1.8.0_102]
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source) ~[?:1.8.0_102]
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source) ~[?:1.8.0_102]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source) ~[?:1.8.0_102]
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source) ~[?:1.8.0_102]
+	at java.net.PlainSocketImpl.connect(Unknown Source) ~[?:1.8.0_102]
+	at java.net.SocksSocketImpl.connect(Unknown Source) ~[?:1.8.0_102]
+	at java.net.Socket.connect(Unknown Source) ~[?:1.8.0_102]
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:149) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:133) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:405) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:454) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:693) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:251) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1140) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:340) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:553) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:254) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:528) ~[ojdbc6-11.2.0.4.jar:11.2.0.4.0]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:53) ~[tomcat-dbcp.jar:9.0.16]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:355) ~[tomcat-dbcp.jar:9.0.16]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:116) ~[tomcat-dbcp.jar:9.0.16]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:731) ~[tomcat-dbcp.jar:9.0.16]
+	... 52 more
+ 2019-07-31 12:11:32,168  WARN (DirectJDKLog.java:180) 4270ed2e-b1a1-4c91-9145-8b378170d1fc - Failed to register in JMX: [javax.naming.NamingException: Unexpected exception resolving reference [Root exception is java.sql.SQLException: Cannot create PoolableConnectionFactory (IO Error: The Network Adapter could not establish the connection)]]
+ 2019-07-31 12:11:32,255  INFO (DirectJDKLog.java:180) a8d826a5-016e-49b9-a2c9-69b6f2605d36 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+ 2019-07-31 12:11:32,260  INFO (DirectJDKLog.java:180) 6b4ed97d-92aa-40e1-9bcb-4d0ed69e6895 - Initializing Spring embedded WebApplicationContext
+ 2019-07-31 12:11:32,260  INFO (ServletWebServerApplicationContext.java:283) 27a9b5b2-c0ba-41ab-b8cc-dd5bfe90dbe5 - Root WebApplicationContext: initialization completed in 22850 ms
+ 2019-07-31 12:11:32,549  INFO (ExecutorConfigurationSupport.java:171) 74467598-0688-45ff-89f0-b83f3ecb2462 - Initializing ExecutorService 'applicationTaskExecutor'
+ 2019-07-31 12:11:32,920  INFO (DirectJDKLog.java:180) c7e6e2d5-d366-4cd9-824c-1f02d2c3a495 - Starting ProtocolHandler ["http-nio-8080"]
+ 2019-07-31 12:11:32,950  INFO (TomcatWebServer.java:202) 27e42a5f-ddf9-40f3-9874-779f0d87d61c - Tomcat started on port(s): 8080 (http) with context path ''
+ 2019-07-31 12:11:32,953  INFO (StartupInfoLogger.java:59) eb678b2e-4ce9-49a5-9ad9-15cc00a1f794 - Started WorkTrackingApplication in 23.914 seconds (JVM running for 25.482)
+ 2019-07-31 12:11:42,217  INFO (DirectJDKLog.java:180) 3b35655b-5aa1-483e-8880-d44c79b0e3cd - Initializing Spring DispatcherServlet 'dispatcherServlet'
+ 2019-07-31 12:11:42,218  INFO (FrameworkServlet.java:524) 83934365-d081-4618-901d-d2714806315c - Initializing Servlet 'dispatcherServlet'
+ 2019-07-31 12:11:42,226  INFO (FrameworkServlet.java:546) c7569cdd-d778-44ea-a349-12400feae692 - Completed initialization in 8 ms
+9b771786-95a9-4b9e-b2d2-e48ea6bc36c9 2019-07-31 12:11:42,249  INFO (TaskController.java:42) c5831475-d1a1-4573-9c03-6b44506e03d3 - UUID : 9b771786-95a9-4b9e-b2d2-e48ea6bc36c9
+9b771786-95a9-4b9e-b2d2-e48ea6bc36c9 2019-07-31 12:11:42,249 DEBUG (TaskController.java:45) e0d2a2fb-2597-4156-b315-ea5ec6472014 - A DEBUG Message
+9b771786-95a9-4b9e-b2d2-e48ea6bc36c9 2019-07-31 12:11:42,250  INFO (TaskController.java:46) f18c27ed-c802-46fb-8486-69dc0d538c51 - An INFO Message
+9b771786-95a9-4b9e-b2d2-e48ea6bc36c9 2019-07-31 12:11:42,250  WARN (TaskController.java:47) c80fcfe6-2bd7-4050-a2f8-d8221e2a8757 - A WARN Message
+9b771786-95a9-4b9e-b2d2-e48ea6bc36c9 2019-07-31 12:11:42,250 ERROR (TaskController.java:48) 4cd5af01-b3ef-426c-a429-f20baa8bb294 - An ERROR Message
+ 2019-07-31 12:12:26,614  INFO (SpringApplicationAdminMXBeanRegistrar.java:159) d9353701-9aef-441d-a523-82e317cb5dd5 - Application shutdown requested.
+ 2019-07-31 12:12:26,617  INFO (ExecutorConfigurationSupport.java:208) 4be65282-1d03-4dd9-9825-177d71c94955 - Shutting down ExecutorService 'applicationTaskExecutor'
